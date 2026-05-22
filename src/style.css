@@ -741,9 +741,6 @@ button {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  .mobile-tabs {
-    display: none;
-  }
 }
 
 @media (max-width: 959px) {
